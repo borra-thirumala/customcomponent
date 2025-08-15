@@ -1,0 +1,7 @@
+
+
+
+
+
+key: it identifies the child item uniquely in react
+
